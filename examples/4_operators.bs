@@ -1,0 +1,13 @@
+a = 3;
+b = 5;
+c = 12.21;
+d = 100;
+
+e = a+b;
+
+print(e);
+
+print(a+c);
+
+print(d+2*b);
+print(2*b+d);

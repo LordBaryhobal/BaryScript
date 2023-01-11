@@ -1,0 +1,19 @@
+func fib(n) {
+	//print("Fib of ",n);
+	//dbg_ctxt();
+    val = 0;
+    if (n <= 2) {
+        val = 1;
+    } else {
+        a = fib(n - 2);
+        b = fib(n - 1);
+        val = a+b;
+    }
+	//dbg_ctxt();
+    
+    //print(n, val);
+    return val;
+}
+
+f = fib(10);
+print(f);

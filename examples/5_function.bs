@@ -1,0 +1,13 @@
+func myFunc(a, b) {
+	print(a+b);
+	
+	return a*b;
+}
+
+A=3;
+B=4;
+
+c = myFunc(A,B);
+
+print("Result:");
+print(c);

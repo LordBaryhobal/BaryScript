@@ -1,0 +1,10 @@
+//This is a comment
+
+a = 10;
+
+/* And this is a
+multiline comment,
+also known as a
+block comment */
+
+print(a);

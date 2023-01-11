@@ -1,0 +1,13 @@
+my_var1 = 17.5;
+my_var2 = 42;
+
+print("A");
+print(my_var1);
+print(my_var2);
+
+print("B");
+my_var1 = my_var2;
+
+print("C");
+print(my_var1);
+print(my_var2);

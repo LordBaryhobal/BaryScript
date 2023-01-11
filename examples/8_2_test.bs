@@ -1,0 +1,5 @@
+func f(a) {
+	return a*2;
+}
+
+print(f(4 - 1) + f(6 - 2));

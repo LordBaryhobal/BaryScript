@@ -1,0 +1,3 @@
+my_variable = 13;
+
+print(my_variable);
